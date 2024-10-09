@@ -3,6 +3,6 @@
 I'm Simon.
 
 You can find me at:
-- https://www.linkedin.com/in/sstur
-- https://twitter.com/sstur_
-- https://sstur.com
+- [linkedin.com/in/sstur](https://www.linkedin.com/in/sstur)
+- [twitter.com/sstur_](https://twitter.com/sstur_)
+- [sstur.com](https://sstur.com)
